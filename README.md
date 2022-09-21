@@ -1,4 +1,4 @@
-# learning-git
-my first experience with git commit and git push
+### learning-git
+## My first experience with GIT and its basic commands
 
 This repo was used to learn and practice git😅😅
